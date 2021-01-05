@@ -3,7 +3,6 @@
 <!--
 **idoru42/idoru42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idoru42)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=idoru42&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
