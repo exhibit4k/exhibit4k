@@ -1,6 +1,6 @@
-### Hello, I'm Kat! 👋
+### Kat's corner of the internet
 
-Fun fact:
+Yeah, according to the below, I just *really* love html and css.
 <!--
 **idoru42/idoru42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
