@@ -1,6 +1,7 @@
 ### Kat's corner of the internet
 
-Yeah, according to the below, I just *really* love html and css.
+According to the below, I just *really* love html and css.
+Currently walking myself through learning Pandas and SQL.
 <!--
 **idoru42/idoru42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
