@@ -1,7 +1,7 @@
-### Kat's corner of the internet
+### Kat
 
-According to the below, I just *really* love html and css.
-Currently walking myself through learning Pandas and SQL.
+Dubious part time programmer.
+
 <!--
 **idoru42/idoru42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=exhibit4k&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exhibit4k&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
